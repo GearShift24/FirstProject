@@ -10,6 +10,9 @@
 #define FirstController_h
 class FirstController
 {
+private:
+    void specialOutput();
+    
 public:
     void start();
 };
